@@ -1,20 +1,20 @@
-# Hi, I'm Natália 👋
+# Hi, I'm Natália!
 
-🎓 Computer Science student passionate about Data Analytics, AI Chatbots, and user behavior analysis.
+Computer Science student passionate about Data Analytics, AI Chatbots, and user behavior analysis.
 
-🌎 Fluent in English and Portuguese.
+Fluent in English and Portuguese.
 
-📊 Currently building projects focused on analytics, dashboards, and data storytelling.
+Currently building projects focused on analytics, dashboards, and data storytelling.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🤖 Experience with AI chatbot platforms
-- 📈 Interested in Product Analytics & Data Analytics
-- 📊 Exploring Tableau, SQL, and Python
-- 🧠 Passionate about transforming data into insights
-- 🌱 Constantly learning and building
+- Experience with AI chatbot platforms
+- Interested in Product Analytics & Data Analytics
+- Exploring Tableau, SQL, and Python
+- Passionate about transforming data into insights
+- Constantly learning and building
 
 ---
 
@@ -28,17 +28,17 @@
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 📊 Chatbot Analytics Dashboard
+##  Chatbot Analytics Dashboard
 Dashboard project focused on user interaction metrics and engagement analysis.
 
-## 📈 Data Analytics Projects
+##  Data Analytics Projects
 Exploratory analysis projects using SQL, Tableau, and Python.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Advanced SQL
 - Tableau Dashboards
@@ -47,13 +47,15 @@ Exploratory analysis projects using SQL, Tableau, and Python.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-- LinkedIn: www.linkedin.com/in/SEU-LINKEDIN
-- Email: seuemail@email.com
+- LinkedIn: www.linkedin.com/in/natáliaribeiro7198
+- Email: nataliasdrf@gmail.com
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natalia-data-web&show_icons=true&theme=tokyonight)
+
+
