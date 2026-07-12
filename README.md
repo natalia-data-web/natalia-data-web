@@ -1,21 +1,20 @@
-# Hi, I'm Natália!
+# Olá, sou Natália!
 
-Computer Science student passionate about Data Analytics, AI Chatbots, and user behavior analysis.
+Estudante de Ciência da Computação apaixonado por análise de dados, chatbots com IA e análise de comportamento do usuário.
 
-Fluent in English and Portuguese.
+Fluente em inglês e português.
 
-Currently building projects focused on analytics, dashboards, and data storytelling.
+Atualmente desenvolvendo projetos focados em análise de dados, dashboards e *data storytelling*.
 
 ---
 
-#  About Me
+#  Sobre mim :
 
-- Experience with AI chatbot platforms
-- Interested in Product Analytics & Data Analytics
-- Exploring Tableau, SQL, and Python
-- Passionate about transforming data into insights
-- Constantly learning and building
-
+- Experiência com plataformas de chatbots de IA
+- Interesse em análise de produtos e análise de dados
+- Explorando Tableau, SQL e Python
+- Apaixonado por transformar dados em insights
+- Em constante aprendizado e desenvolvimento
 ---
 
 # 🛠 Tech Stack
@@ -28,26 +27,25 @@ Currently building projects focused on analytics, dashboards, and data storytell
 
 ---
 
-#  Featured Projects
+#  Projetos em Destaque
 
-##  Chatbot Analytics Dashboard
-Dashboard project focused on user interaction metrics and engagement analysis.
+##  Painel de Análise de Chatbot
+Projeto de painel focado em métricas de interação do usuário e análise de engajamento.
 
-##  Data Analytics Projects
-Exploratory analysis projects using SQL, Tableau, and Python.
+##  Projetos de Análise de Dados
+Projetos de análise exploratória utilizando SQL, Tableau e Python.
+---
+
+#  Aprendendo atualmente
+
+- SQL Avançado
+- Dashboards no Tableau
+- Python para Análise de Dados
+- Análise de Produto
 
 ---
 
-#  Currently Learning
-
-- Advanced SQL
-- Tableau Dashboards
-- Python for Data Analysis
-- Product Analytics
-
----
-
-#  Connect With Me
+# Fale comigo :
 
 - LinkedIn: www.linkedin.com/in/natáliaribeiro7198
 - Email: nataliasdrf@gmail.com
